@@ -3,4 +3,3 @@ scipy
 pandas
 numpy
 matplotlib
-SciencePlots
