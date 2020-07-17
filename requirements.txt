@@ -1,0 +1,6 @@
+pip
+scipy
+pandas
+numpy
+matplotlib
+SciencePlots
